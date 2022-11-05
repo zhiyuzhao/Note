@@ -4,107 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "734b4783dffec6df",
+        "id": "69d3dfbac3902b5e",
         "type": "tabs",
         "children": [
           {
-            "id": "ba781268ea8fe0f2",
+            "id": "da9ed3f7b164389c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "剑指offer42.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2f198bf3ed1a20c0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC 236.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "02955ed2aa36d857",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC36.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ce0247c888e235b3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC46.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2fe3ac5713e1ebeb",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC199.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2904cc90eb5202a8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC523.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ad20b14ca5bd8a7d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "LC718.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b530360c2df3f815",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "机器人运动范围.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 7
+        ]
       }
     ],
     "direction": "vertical"
@@ -170,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "机器人运动范围.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -187,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "机器人运动范围.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "机器人运动范围.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -221,14 +128,16 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "b530360c2df3f815",
+  "active": "a66d06dd3bacc570",
   "lastOpenFiles": [
-    "LC718.md",
-    "LC523.md",
-    "LC199.md",
-    "LC46.md",
-    "LC36.md",
-    "LC 236.md",
-    "剑指offer42.md"
+    "算法/LC523.md",
+    "算法/LC36.md",
+    "算法/机器人运动范围.md",
+    "2022-10-31.md",
+    "算法/LC718.md",
+    "算法/LC199.md",
+    "算法/LC46.md",
+    "算法/LC 236.md",
+    "算法/剑指offer42.md"
   ]
 }
